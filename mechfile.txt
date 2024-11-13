@@ -1,0 +1,17 @@
+mechfile format:
+
+mech name
+
+//items//
+
+item name
+item type
+stats:
+- ...
+- ...
+- ...
+
+item name
+... etc ...
+
+#leg //# followed by item type ?

@@ -1,0 +1,5 @@
+See google doc:
+
+- take stuff from terminal_game.c and put it into functions that can be used by the graphical version of the game
+
+PLAYTEST WHAT YOU HAVE
